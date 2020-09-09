@@ -1,0 +1,13 @@
+C:\Users\ghabi\Documents\Mis\221\repos\gregsrepos\bin\Debug\netcoreapp3.1\gregsrepos.exe
+C:\Users\ghabi\Documents\Mis\221\repos\gregsrepos\bin\Debug\netcoreapp3.1\gregsrepos.deps.json
+C:\Users\ghabi\Documents\Mis\221\repos\gregsrepos\bin\Debug\netcoreapp3.1\gregsrepos.runtimeconfig.json
+C:\Users\ghabi\Documents\Mis\221\repos\gregsrepos\bin\Debug\netcoreapp3.1\gregsrepos.runtimeconfig.dev.json
+C:\Users\ghabi\Documents\Mis\221\repos\gregsrepos\bin\Debug\netcoreapp3.1\gregsrepos.dll
+C:\Users\ghabi\Documents\Mis\221\repos\gregsrepos\bin\Debug\netcoreapp3.1\gregsrepos.pdb
+C:\Users\ghabi\Documents\Mis\221\repos\gregsrepos\obj\Debug\netcoreapp3.1\gregsrepos.csprojAssemblyReference.cache
+C:\Users\ghabi\Documents\Mis\221\repos\gregsrepos\obj\Debug\netcoreapp3.1\gregsrepos.AssemblyInfoInputs.cache
+C:\Users\ghabi\Documents\Mis\221\repos\gregsrepos\obj\Debug\netcoreapp3.1\gregsrepos.AssemblyInfo.cs
+C:\Users\ghabi\Documents\Mis\221\repos\gregsrepos\obj\Debug\netcoreapp3.1\gregsrepos.csproj.CoreCompileInputs.cache
+C:\Users\ghabi\Documents\Mis\221\repos\gregsrepos\obj\Debug\netcoreapp3.1\gregsrepos.dll
+C:\Users\ghabi\Documents\Mis\221\repos\gregsrepos\obj\Debug\netcoreapp3.1\gregsrepos.pdb
+C:\Users\ghabi\Documents\Mis\221\repos\gregsrepos\obj\Debug\netcoreapp3.1\gregsrepos.genruntimeconfig.cache
